@@ -1,6 +1,8 @@
 # Florence-2 Model Demo README
 
 This project demonstrates the capabilities of Microsoft's [Florence-2 Model](https://huggingface.co/microsoft/Florence-2-large) through a simple web interface built using Gradio. Florence-2 is a large vision-language model capable of various image and text generation tasks, such as object detection, captioning, and grounding. This demo allows users to interact with these capabilities by uploading images and selecting from various tasks.
+![Screenshot 2025-03-11 182528](https://github.com/user-attachments/assets/412eb722-83a9-4232-8811-46e1ef74ddc2)![Screenshot 2025-03-11 182322](https://github.com/user-attachments/assets/24609f41-d0a8-454c-b57d-c74baa03efbf)
+
 
 ## Key Features
 
