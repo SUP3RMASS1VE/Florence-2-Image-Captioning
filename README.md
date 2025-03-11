@@ -17,7 +17,7 @@ To run this demo locally, you need to have Python 3.7+ installed, along with the
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/Florence2-Demo.git
+git clone [https://github.com/SUP3RMASS1VE/Florence-2-Image-Captioning]
 cd Florence2-Demo
 ```
 
