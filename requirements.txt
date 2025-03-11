@@ -1,0 +1,10 @@
+transformers
+torch>=2.6.0
+timm>=0.9.5
+gradio>=4.0.0
+matplotlib>=3.7.0
+pillow>=10.0.0
+requests>=2.31.0
+accelerate>=0.25.0
+safetensors>=0.4.0
+https://huggingface.co/lldacing/flash-attention-windows-wheel/resolve/main/flash_attn-2.7.4+cu124torch2.6.0cxx11abiFALSE-cp310-cp310-win_amd64.whl
