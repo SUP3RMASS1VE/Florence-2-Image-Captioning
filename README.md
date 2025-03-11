@@ -18,7 +18,7 @@ To run this demo locally, you need to have Python 3.7+ installed, along with the
 
 ```bash
 git clone [https://github.com/SUP3RMASS1VE/Florence-2-Image-Captioning]
-cd Florence2-Demo
+cd Florence-2-Image-Captioning
 ```
 
 ### Step 2: Install the Required Libraries
@@ -26,8 +26,8 @@ cd Florence2-Demo
 Create a virtual environment (optional but recommended):
 
 ```bash
-python3 -m venv florence2-env
-source florence2-env/bin/activate  # On Windows, use florence2-env\Scripts\activate
+python -m venv env
+env\Scripts\activate
 ```
 
 Install the required dependencies:
